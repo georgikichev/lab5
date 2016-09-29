@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="title_activity_4">Activity4</string>
+    <string name="title_activity_5">Activity5</string>
+    <string name="info_main">Push the button to start the activity</string>
+    <string name="launchActivity2">Activity 2</string>
+    <string name="launchActivity3">Activity 3</string>
+    <string name="act1btn">Activity 1</string>
+    <string name="act2btn">Activity 2</string>
+    <string name="launchBrowser">Web Browser</string>
+    <string name="actbtn4">Activity 4</string>
+    <string name="retbtn">Return</string>
+    <string name="actbtn5">Activity 5</string>
+    <string name="launchGeo">Geo</string>
+    <string name="displayREsults">Result from Activity %1$d: %2$s</string>
+</resources>
